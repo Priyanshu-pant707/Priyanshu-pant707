@@ -1,11 +1,11 @@
-## Hi there 👋
+
 
 <h1 align="center">Hey 👋, I'm Priyanshu Pant</h1>
 <h3 align="center">A Passionate Developer | AI Enthusiast | Web Wizard ⚡</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 I’m currently working on **AI-Powered Gas Pipeline Optimizer 🔥**
+- 🔭 I’m currently working on **LIPS READER and GESTURE TRACKER 🔥**
 - 🌱 I’m learning **Deep Learning, FastAPI, MongoDB**
 - 👯 I’m looking to collaborate on **cool ML and Web projects**
 - 💬 Ask me about **React, FastAPI, GSAP Animations**
