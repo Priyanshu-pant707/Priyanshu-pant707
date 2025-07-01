@@ -50,6 +50,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=I+code+therefore+I+am!;Let%27s+build+something+awesome!;जय+श्री+राम+🚩" alt="Typing SVG" />
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Erk4NawQOHkf4wSN7JmB_A.jpeg" alt="Typing SVG" />
 </p>
 
