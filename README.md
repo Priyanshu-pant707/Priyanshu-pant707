@@ -1,17 +1,17 @@
-
-
 <h1 align="center">Hey 👋, I'm Priyanshu Pant</h1>
 <h3 align="center">A Passionate Developer | AI Enthusiast | Web Wizard ⚡</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300" style="max-width: 100%; height: auto;" />
+</div>
 
-- 🔭 I’m currently working on **LIPS READER and GESTURE TRACKER 🔥**
-- 🌱 I’m learning **Deep Learning, FastAPI, MongoDB**
-- 👯 I’m looking to collaborate on **cool ML and Web projects**
-- 💬 Ask me about **React, FastAPI, GSAP Animations**
-- 📫 How to reach me: pantpriyanshu707@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I build while vibing to Lofi or Bhajans 🎧
+- 🔭 I’m currently working on **LIPS READER and GESTURE TRACKER 🔥**  
+- 🌱 I’m learning **Deep Learning, FastAPI, MongoDB**  
+- 👯 I’m looking to collaborate on **cool ML and Web projects**  
+- 💬 Ask me about **React, FastAPI, GSAP Animations**  
+- 📫 How to reach me: pantpriyanshu707@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I build while vibing to Lofi or Bhajans 🎧  
 
 ---
 
@@ -27,10 +27,10 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-pant707&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshu-pant707&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-pant707&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshu-pant707&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="45%"/>
+</div>
 
 ---
 
@@ -49,8 +49,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Typing SVG" width="300"/>
-</p>
-
-
+<div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Typing SVG" width="300" style="max-width: 100%; height: auto;" />
+</div>
