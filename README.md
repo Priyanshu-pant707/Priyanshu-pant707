@@ -50,6 +50,6 @@
 ---
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Erk4NawQOHkf4wSN7JmB_A.jpeg" alt="Typing SVG" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Typing SVG" />
 </p>
 
