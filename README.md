@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer | AI Enthusiast | Web Wizard ⚡</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300" style="max-width: 100%; height: auto;" />
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Coding" width="300" style="max-width: 100%; height: auto;" />
 </div>
 
 - 🔭 I’m currently working on **LIPS READER and GESTURE TRACKER 🔥**  
